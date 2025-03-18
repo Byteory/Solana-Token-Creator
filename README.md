@@ -2,7 +2,7 @@
 
 # For Sale: Solana Token Creator - $299
 
-💬 Contact us on Telegram: [Byteory Telegram](t.me/byteory)
+💬 Contact us on Telegram: [Byteory Telegram](https://t.me/byteory)
 
 **[Solana Token Creator](https://solana-token-creator.byteory.com/)**
 
