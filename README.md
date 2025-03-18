@@ -19,5 +19,5 @@ Easily create and launch Solana tokens in just a few clicks with our powerful So
 - **Web-Based Tool** – Access from anywhere, no software installation needed.
 - **Affordable One-Time Payment** – No hidden fees or monthly subscriptions.
 
-📌 Buy the source code here: [Byteory Store](https://byteory.com/source-code/solana-token-creator/) (Page under maintenance)
+📌 Buy the source code here: [Byteory Store](https://byteory.com/source-code/solana-token-creator/)
 
