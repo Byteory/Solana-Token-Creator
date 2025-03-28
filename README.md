@@ -1,6 +1,6 @@
 # Solana-Token-Creator
 
-# For Sale: Solana Token Creator - $299
+# For Sale: Solana Token Creator - 1 SOL
 
 💬 Contact us on Telegram: [Byteory Telegram](https://t.me/byteory)
 
@@ -8,7 +8,7 @@
 
 Easily create and launch Solana tokens in just a few clicks with our powerful Solana Token Creator. No coding skills required!
 
-### 🔥 Price: **$299**
+### 🔥 Price: **1 SOL**
 
 ### 🚀 Features:
 - **Easy-to-Use Interface** – Create tokens without any technical knowledge.
